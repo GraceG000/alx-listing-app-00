@@ -7,7 +7,7 @@ const Header: React.FC = () => {
     <header className="bg-white shadow">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/">
-          <a className="text-2xl font-bold">ALX Listings</a>
+          <h1 className="text-2xl font-bold">ALX Listings</h1>
         </Link>
 
         <div className="hidden md:flex items-center gap-4">
